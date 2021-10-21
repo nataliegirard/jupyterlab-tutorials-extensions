@@ -1,0 +1,8 @@
+{
+    "jupyter.lab.setting-icon-class": "jp-sidebar-icon",
+    "jupyter.lab.setting-icon-label": "Sidebar example",
+    "title": "Sidebar example",
+    "description": "Sidebar example",
+    "additionalProperties": false,
+    "type": "object"
+}

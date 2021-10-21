@@ -1,0 +1,8 @@
+.jp-sidebar-icon {
+  background-image: url(tools.svg);
+}
+
+.jp-sidebar {
+  background-color: white;
+  padding: 10px;
+}
