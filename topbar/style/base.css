@@ -1,0 +1,8 @@
+#topbar-account-button {
+  align-self: center;
+  margin-left: auto;
+}
+
+.topbar-account-icon {
+  background-image: url(account.svg);
+}
